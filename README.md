@@ -5,3 +5,6 @@ Le concept de cette application est de promouvoir l'événementiel en rendant l'
 #### Note :
 
 L'essentiel des fonctions concernant la carte interactive sont implémentées dans <b>rootMap.swift</b>
+
+L'algorithme utilisant le géocodage dans la recherche d'événements est implémenté dans <b>Geohash.swift</b>
+

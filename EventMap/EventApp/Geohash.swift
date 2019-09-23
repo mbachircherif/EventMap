@@ -111,7 +111,7 @@ struct Geohash {
         return String(arr.prefix(length))
     }
     
-    /// ADD LIBRARY
+    /// NEW FUNCTION
     
     static func proximyHash(prefixGeoboxes: [String], cardinalHash: [String:String], precision: Int, step: Int, boundingLimits: [String:CLLocationCoordinate2D]) -> [String:AnyObject] {
         
