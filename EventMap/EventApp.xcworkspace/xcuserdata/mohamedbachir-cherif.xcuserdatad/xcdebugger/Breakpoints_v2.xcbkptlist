@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "app_1/eventPresentation.swift"
+            timestampString = "518796619.556761"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "157"
+            endingLineNumber = "157"
+            landmarkName = "retrievingData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "app_1.eventPresentation.(retrievingData () -&gt; ()).(closure #1)"
+                  moduleName = "app_1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohamedbachir-cherif/Downloads/app_1/app_1/eventPresentation.swift"
+                  timestampString = "518796169.552906"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "151"
+                  endingLineNumber = "151"
+                  offsetFromSymbolStart = "1496">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "app_1.eventPresentation.(retrievingData () -&gt; ()).(closure #1)"
+                  moduleName = "app_1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohamedbachir-cherif/Downloads/app_1/app_1/eventPresentation.swift"
+                  timestampString = "518796169.614276"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "151"
+                  endingLineNumber = "151"
+                  offsetFromSymbolStart = "2908">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
